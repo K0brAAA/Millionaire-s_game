@@ -1,16 +1,16 @@
 {
     "produkty": [
         {
-            "nazwa": "Jajka",
-            "bialko": 5.0,
+            "nazwa": "fg",
+            "bialko": 2.0,
             "weglowodany": 3.0,
-            "tluszcze": 2.0
+            "tluszcze": 4.0
         },
         {
-            "nazwa": "hgf",
-            "bialko": 5.0,
-            "weglowodany": 6.0,
-            "tluszcze": 8.0
+            "nazwa": "1",
+            "bialko": 1.0,
+            "weglowodany": 1.0,
+            "tluszcze": 1.0
         }
     ]
 }

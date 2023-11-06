@@ -96,10 +96,10 @@ if __name__ == "__main__":
             else:
                 print("Produkty w bazie danych:")
                 for produkt in produkty:
-                    print("Nazwa: {}, Białko: {}g, Węglowodany: {}g, Tłuszcze: {}g".format(produkt["nazwa"],
-                                                                                           produkt["bialko"],
-                                                                                           produkt["weglowodany"],
-                                                                                           produkt["tluszcze"]))
+                    print("Nazwa: {}, Białko: {}g, Węglowodany: {}g, Tłuszcze: {}g".format(1["nazwa"],
+                                                                                            produkt["bialko"],
+                                                                                            produkt["weglowodany"],
+                                                                                            produkt["tluszcze"]))
 
         elif wybor == "4":
             produkty = pobierz_produkty()
