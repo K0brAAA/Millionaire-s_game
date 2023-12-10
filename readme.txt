@@ -1,2 +1,1 @@
-Hello its Mario
-And mario fuck all
+Hello it's my first project in Python!
