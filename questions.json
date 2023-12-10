@@ -1,0 +1,1064 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Poland?",
+      "answer_options": [
+        "A) Warsaw",
+        "B) Krakow",
+        "C) Wroclaw",
+        "D) Gdansk"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Who is the author of 'Crime and Punishment'?",
+      "answer_options": [
+        "A) Fyodor Dostoevsky",
+        "B) Leo Tolstoy",
+        "C) Gabriel Garcia Marquez",
+        "D) Jane Austen"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "How many days are in a week?",
+      "answer_options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which chemical element has the symbol 'O'?",
+      "answer_options": [
+        "A) Oxygen",
+        "B) Nitrogen",
+        "C) Carbon",
+        "D) Hydrogen"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Who wrote 'Pan Tadeusz'?",
+      "answer_options": [
+        "A) Adam Mickiewicz",
+        "B) Juliusz Slowacki",
+        "C) Henryk Sienkiewicz",
+        "D) Boleslaw Prus"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the highest mountain in Poland?",
+      "answer_options": [
+        "A) Tatra Mountains",
+        "B) Bieszczady Mountains",
+        "C) Karkonosze Mountains",
+        "D) Sudetes"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+      "answer_options": [
+        "A) Sweden",
+        "B) Finland",
+        "C) Norway",
+        "D) Poland"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Who is the author of the painting 'Lady with an Ermine'?",
+      "answer_options": [
+        "A) Leonardo da Vinci",
+        "B) Rembrandt",
+        "C) Vincent van Gogh",
+        "D) Jan Vermeer"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which city is considered the 'heart of Poland'?",
+      "answer_options": [
+        "A) Warsaw",
+        "B) Krakow",
+        "C) Poznan",
+        "D) Wroclaw"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "answer_options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which river is the longest river in Poland?",
+      "answer_options": [
+        "A) Vistula",
+        "B) Oder",
+        "C) Warta",
+        "D) Bug"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Who is the author of 'The Wedding'?",
+      "answer_options": [
+        "A) Stanislaw Wyspianski",
+        "B) Wladyslaw Reymont",
+        "C) Boleslaw Prus",
+        "D) Juliusz Slowacki"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the name of the largest lake in Poland?",
+      "answer_options": [
+        "A) Lake Sniardwy",
+        "B) Lake Mamry",
+        "C) Lake Wigry",
+        "D) Lake Niegocin"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish music band is known as the 'Polish Madonna'?",
+      "answer_options": [
+        "A) Lady Pank",
+        "B) K.A.S.A.",
+        "C) Maanam",
+        "D) Perfect"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which opera is the work of Giuseppe Verdi?",
+      "answer_options": [
+        "A) Carmen",
+        "B) La Traviata",
+        "C) The Magic Flute",
+        "D) The Barber of Seville"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "How many wojewodztw are there in Poland?",
+      "answer_options": [
+        "A) 14",
+        "B) 15",
+        "C) 16",
+        "D) 17"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Who is the President of Poland?",
+      "answer_options": [
+        "A) Andrzej Duda",
+        "B) Bronislaw Komorowski",
+        "C) Lech Walesa",
+        "D) Aleksander Kwasniewski"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish scientist received the Nobel Prize in Physics?",
+      "answer_options": [
+        "A) Marie Curie",
+        "B) Andrzej Schally",
+        "C) Henryk Sienkiewicz",
+        "D) Lech Walesa"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which mountains are the oldest in the world?",
+      "answer_options": [
+        "A) Carpathians",
+        "B) Andes",
+        "C) Himalayas",
+        "D) Sudetes"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which Polish painter is considered the founder of the landscape school?",
+      "answer_options": [
+        "A) Jan Matejko",
+        "B) Jozef Chelmonski",
+        "C) Jerzy Nowosielski",
+        "D) Tadeusz Makowski"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which Polish actress won an Oscar for a leading role?",
+      "answer_options": [
+        "A) Agnieszka Holland",
+        "B) Krystyna Janda",
+        "C) Maja Komorowska",
+        "D) Anna Polony"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which Polish writer wrote 'Quo Vadis'?",
+      "answer_options": [
+        "A) Henryk Sienkiewicz",
+        "B) Wladyslaw Reymont",
+        "C) Boleslaw Prus",
+        "D) Juliusz Slowacki"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the name of the Polish currency?",
+      "answer_options": [
+        "A) Zloty",
+        "B) Euro",
+        "C) Forint",
+        "D) Korona"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish film won the Golden Palm at the Cannes Film Festival?",
+      "answer_options": [
+        "A) Ida",
+        "B) Cicha noc",
+        "C) Body/Cialo",
+        "D) In Darkness"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which historic city in Poland is known as the 'Queen of Polish Cities'?",
+      "answer_options": [
+        "A) Krakow",
+        "B) Warsaw",
+        "C) Gdansk",
+        "D) Wroclaw"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish invention was awarded a gold medal at the World Exhibition in Paris in 1889?",
+      "answer_options": [
+        "A) Steam Cooker",
+        "B) Washing Machine",
+        "C) Telephone",
+        "D) Binoculars"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish scientist received the Nobel Prize in Chemistry?",
+      "answer_options": [
+        "A) Jerzy Charpak",
+        "B) Albert Michelson",
+        "C) Tadeusz Reichstein",
+        "D) Wladysław Reymont"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the name of the oldest Polish university?",
+      "answer_options": [
+        "A) University of Warsaw",
+        "B) Jagiellonian University",
+        "C) University of Wroclaw",
+        "D) Adam Mickiewicz University"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which Polish queen was the wife of Wladysław Jagiello?",
+      "answer_options": [
+        "A) Bona Sforza",
+        "B) Anna Jagiellonka",
+        "C) Elzbieta Austriacka",
+        "D) Barbara Radziwillowna"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "In which year did Poland adopt Christianity?",
+      "answer_options": [
+        "A) 966",
+        "B) 1000",
+        "C) 1054",
+        "D) 1109"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish composer is the author of 'Mazurkas'?",
+      "answer_options": [
+        "A) Karol Szymanowski",
+        "B) Ignacy Paderewski",
+        "C) Fryderyk Chopin",
+        "D) Witold Lutoslawski"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which city in Poland is called the 'Tri-City'?",
+      "answer_options": [
+        "A) Gdansk",
+        "B) Warsaw",
+        "C) Krakow",
+        "D) Wroclaw"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish actress won an Oscar for a supporting role?",
+      "answer_options": [
+        "A) Agnieszka Holland",
+        "B) Maja Komorowska",
+        "C) Anna Polony",
+        "D) Renata Dancewicz"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which Polish island is located on Lake Sniardwy?",
+      "answer_options": [
+        "A) Klonowa Island",
+        "B) Piasek Island",
+        "C) Tajemnic Island",
+        "D) Pajakow Island"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which Polish astronomer is known as the discoverer of the Carolean planet?",
+      "answer_options": [
+        "A) Nicolaus Copernicus",
+        "B) Jan Heweliusz",
+        "C) Johannes Hevelius",
+        "D) Marie Sklodowska-Curie"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which Polish composer is the author of the opera 'Halka'?",
+      "answer_options": [
+        "A) Stanislaw Moniuszko",
+        "B) Ignacy Paderewski",
+        "C) Henryk Gorecki",
+        "D) Karol Szymanowski"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the name of the highest mountain in the High Tatras?",
+      "answer_options": [
+        "A) Gerlach",
+        "B) Rysy",
+        "C) Swinica",
+        "D) Kozi Wierch"
+      ],
+      "correct_answer": "A"
+    },
+    {
+    "question": "What does HTML stand for?",
+    "answer_options": [
+      "A) Hyperlink and Text Markup Language",
+      "B) High Tech Modern Language",
+      "C) Hyper Text Markup Language",
+      "D) Home Tool Markup Language"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which programming language is known for its readability and simplicity?",
+    "answer_options": [
+      "A) C++",
+      "B) Python",
+      "C) Ruby",
+      "D) Java"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the purpose of SQL?",
+    "answer_options": [
+      "A) Sequential Question Language",
+      "B) System Query Language",
+      "C) Structured Query Language",
+      "D) Simple Question Language"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is a 'bit'?",
+    "answer_options": [
+      "A) Boolean Indicator Tag",
+      "B) Binary Digit",
+      "C) Byte Information Token",
+      "D) Basic Instruction Tag"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "In computer science, what does 'GUI' stand for?",
+    "answer_options": [
+      "A) General User Interface",
+      "B) Gateway User Interface",
+      "C) Graphical User Interface",
+      "D) Global User Integration"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the function of a 'compiler'?",
+    "answer_options": [
+      "A) Controls network traffic",
+      "B) Manages computer peripherals",
+      "C) Executes database queries",
+      "D) Translates high-level code to machine code"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the primary purpose of an operating system?",
+    "answer_options": [
+      "A) Creates database structures",
+      "B) Designs user interfaces",
+      "C) Manages hardware and software resources",
+      "D) Performs complex mathematical calculations"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+    "answer_options": [
+      "A) Tree",
+      "B) Queue",
+      "C) Linked List",
+      "D) Stack"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the role of RAM in a computer?",
+    "answer_options": [
+      "A) Graphics rendering",
+      "B) Permanent storage for files",
+      "C) Processor speed control",
+      "D) Temporary storage for running programs"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What does the acronym URL stand for?",
+    "answer_options": [
+      "A) Unified Resource Link",
+      "B) Universal Reference Language",
+      "C) Uniform Resource Locator",
+      "D) User Registry Locator"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the purpose of the 'if' statement in programming?",
+    "answer_options": [
+      "A) Declares a variable",
+      "B) Defines functions",
+      "C) Handles exceptions",
+      "D) Conditional execution of code"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which programming paradigm emphasizes the use of functions?",
+    "answer_options": [
+      "A) Object-oriented programming",
+      "B) Procedural programming",
+      "C) Imperative programming",
+      "D) Functional programming"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the purpose of the 'else' statement in an 'if-else' construct?",
+    "answer_options": [
+      "A) Executes when the 'if' condition is true",
+      "B) Executes when the 'if' condition is false",
+      "C) Declares a variable",
+      "D) Defines a loop"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the primary function of a router in a network?",
+    "answer_options": [
+      "A) Manages email communication",
+      "B) Connects devices within a local network",
+      "C) Stores and retrieves data",
+      "D) Directs data traffic between networks"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the purpose of the 'for' loop in programming?",
+    "answer_options": [
+      "A) Executes a block of code only once",
+      "B) Handles exceptions",
+      "C) Defines a function",
+      "D) Iterates through a sequence of elements"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the plural form of 'goose'?",
+    "answer_options": [
+      "A) Geeses",
+      "B) Gooses",
+      "C) Goose",
+      "D) Gies"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following words is a synonym for 'meticulous'?",
+    "answer_options": [
+      "A) Careful",
+      "B) Sloppy",
+      "C) Hasty",
+      "D) Negligent"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the past tense of the verb 'run'?",
+    "answer_options": [
+      "A) Running",
+      "B) Ran",
+      "C) Ranned",
+      "D) Runned"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which word is an antonym for 'vivid'?",
+    "answer_options": [
+      "A) Dull",
+      "B) Bright",
+      "C) Colorful",
+      "D) Lively"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "What part of speech is the word 'fortunately'?",
+    "answer_options": [
+      "A) Noun",
+      "B) Adjective",
+      "C) Adverb",
+      "D) Verb"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the acronym 'CEO' stand for?",
+    "answer_options": [
+      "A) Chief Executive Officer",
+      "B) Chief Entertainment Officer",
+      "C) Creative Executive Organizer",
+      "D) Corporate Excellence Officer"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which of the following is a compound word?",
+    "answer_options": [
+      "A) Tree",
+      "B) Rain",
+      "C) Sunflower",
+      "D) Cloud"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the comparative form of 'far'?",
+    "answer_options": [
+      "A) Farther",
+      "B) Farest",
+      "C) Farder",
+      "D) Farrow"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which punctuation mark is used to indicate possession?",
+    "answer_options": [
+      "A) Comma (,)",
+      "B) Exclamation mark (!)",
+      "C) Apostrophe (')",
+      "D) Hyphen (-)"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the meaning of the idiom 'piece of cake'?",
+    "answer_options": [
+      "A) Difficult task",
+      "B) Delicious dessert",
+      "C) Something easy to do",
+      "D) Broken dish"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which tense is used to describe an action that will happen in the future?",
+    "answer_options": [
+      "A) Past tense",
+      "B) Present tense",
+      "C) Future tense",
+      "D) Conditional tense"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the plural form of 'mouse' (computer device)?",
+    "answer_options": [
+      "A) Mices",
+      "B) Mouses",
+      "C) Mice",
+      "D) Mooses"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which literary device is used to exaggerate and overemphasize a point?",
+    "answer_options": [
+      "A) Simile",
+      "B) Metaphor",
+      "C) Hyperbole",
+      "D) Irony"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the opposite of 'brave'?",
+    "answer_options": [
+      "A) Fearful",
+      "B) Courageous",
+      "C) Confident",
+      "D) Bold"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "In the sentence 'She sang beautifully,' what is the adverb?",
+    "answer_options": [
+      "A) She",
+      "B) Sang",
+      "C) Beautifully",
+      "D) The"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Who is often referred to as the 'Father of Western Philosophy'?",
+    "answer_options": [
+      "A) Socrates",
+      "B) Aristotle",
+      "C) Plato",
+      "D) Thales"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the fundamental concept explored in existentialist philosophy?",
+    "answer_options": [
+      "A) Utilitarianism",
+      "B) Absurdism",
+      "C) Determinism",
+      "D) Nihilism"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which philosopher is associated with the concept of the 'social contract'?",
+    "answer_options": [
+      "A) Thomas Hobbes",
+      "B) Jean-Jacques Rousseau",
+      "C) John Locke",
+      "D) Immanuel Kant"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the main focus of metaphysics?",
+    "answer_options": [
+      "A) Ethics",
+      "B) Epistemology",
+      "C) Ontology",
+      "D) Aesthetics"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Who wrote 'Meditations,' a series of personal writings by a Roman Emperor that reflect on philosophy and life?",
+    "answer_options": [
+      "A) Seneca the Younger",
+      "B) Marcus Aurelius",
+      "C) Epictetus",
+      "D) Cicero"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which philosophical movement emphasizes the inherent value and agency of human beings?",
+    "answer_options": [
+      "A) Humanism",
+      "B) Idealism",
+      "C) Materialism",
+      "D) Skepticism"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the 'Categorical Imperative' a central concept of in ethical philosophy?",
+    "answer_options": [
+      "A) Utilitarianism",
+      "B) Deontology",
+      "C) Virtue ethics",
+      "D) Egoism"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who is known for the thought experiment involving a 'philosophical zombie' to explore consciousness and the mind-body problem?",
+    "answer_options": [
+      "A) Daniel Dennett",
+      "B) David Chalmers",
+      "C) Thomas Nagel",
+      "D) John Searle"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What ancient Greek school of philosophy is associated with the teachings of Zeno of Citium?",
+    "answer_options": [
+      "A) Stoicism",
+      "B) Epicureanism",
+      "C) Sophism",
+      "D) Cynicism"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Who authored 'Beyond Good and Evil' and introduced the concept of the 'will to power'?",
+    "answer_options": [
+      "A) Friedrich Nietzsche",
+      "B) Soren Kierkegaard",
+      "C) Karl Marx",
+      "D) Jean-Paul Sartre"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the central idea of the allegory of the cave in Plato's 'Republic'?",
+    "answer_options": [
+      "A) The nature of justice",
+      "B) The pursuit of pleasure",
+      "C) The theory of forms",
+      "D) The nature of reality and perception"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which philosopher is associated with the concept of 'Tabula Rasa'?",
+    "answer_options": [
+      "A) Immanuel Kant",
+      "B) John Locke",
+      "C) Jean-Jacques Rousseau",
+      "D) Thomas Hobbes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the primary focus of feminist philosophy?",
+    "answer_options": [
+      "A) Aesthetics",
+      "B) Epistemology",
+      "C) Ethics",
+      "D) Political philosophy"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which philosophical tradition emphasizes the impermanence and unsatisfactoriness of worldly existence?",
+    "answer_options": [
+      "A) Existentialism",
+      "B) Daoism",
+      "C) Buddhism",
+      "D) Confucianism"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Who wrote 'The Prince,' a political treatise on governance and leadership?",
+    "answer_options": [
+      "A) Niccolò Machiavelli",
+      "B) Thomas More",
+      "C) John Locke",
+      "D) Karl Marx"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the primary ethical principle in consequentialist ethics?",
+    "answer_options": [
+      "A) Duty",
+      "B) Happiness",
+      "C) Virtue",
+      "D) Justice"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who is credited with the famous statement 'Cogito, ergo sum' (I think, therefore I am)?",
+    "answer_options": [
+      "A) Rene Descartes",
+      "B) Immanuel Kant",
+      "C) Jean-Jacques Rousseau",
+      "D) Thomas Hobbes"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "In existentialist philosophy, what does 'existence precede essence' mean?",
+    "answer_options": [
+      "A) Human nature is predetermined",
+      "B) Essence precedes existence",
+      "C) The meaning of life is predetermined",
+      "D) Individuals define their own essence through their choices"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Who is known for the concept of the 'Eternal Recurrence'?",
+    "answer_options": [
+      "A) Albert Camus",
+      "B) Friedrich Nietzsche",
+      "C) Soren Kierkegaard",
+      "D) Jean-Paul Sartre"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which city serves as the capital of Washington?",
+    "answer_options": [
+      "A) Seattle",
+      "B) Olympia",
+      "C) Tacoma",
+      "D) Spokane"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the highest peak in the state of Washington?",
+    "answer_options": [
+      "A) Mount Hood",
+      "B) Mount Adams",
+      "C) Mount Rainier",
+      "D) Mount St. Helens"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which major river forms part of the border between Washington and Oregon?",
+    "answer_options": [
+      "A) Columbia River",
+      "B) Snake River",
+      "C) Yakima River",
+      "D) Skagit River"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "In what year did Washington officially become a state in the United States?",
+    "answer_options": [
+      "A) 1789",
+      "B) 1820",
+      "C) 1889",
+      "D) 1920"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which national park is located in the state of Washington, known for its diverse ecosystems?",
+    "answer_options": [
+      "A) Yellowstone National Park",
+      "B) Olympic National Park",
+      "C) Grand Canyon National Park",
+      "D) Mount Rainier National Park"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What major technology company is headquartered in Redmond, Washington?",
+    "answer_options": [
+      "A) Amazon",
+      "B) Microsoft",
+      "C) Boeing",
+      "D) Starbucks"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which body of water borders Washington to the west?",
+    "answer_options": [
+      "A) Puget Sound",
+      "B) Pacific Ocean",
+      "C) Salish Sea",
+      "D) Columbia River"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the nickname of the state of Washington?",
+    "answer_options": [
+      "A) The Sunshine State",
+      "B) The Evergreen State",
+      "C) The Garden State",
+      "D) The Golden State"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which iconic music festival took place near Woodstock Farm in Washington in 1969?",
+    "answer_options": [
+      "A) Woodstock Festival",
+      "B) Coachella Valley Music and Arts Festival",
+      "C) Lollapalooza",
+      "D) Bonnaroo"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the major industry associated with the city of Spokane?",
+    "answer_options": [
+      "A) Technology",
+      "B) Agriculture",
+      "C) Aerospace",
+      "D) Mining"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which mountain pass in Washington is a key transportation route through the Cascade Range?",
+    "answer_options": [
+      "A) Snoqualmie Pass",
+      "B) Stevens Pass",
+      "C) Chinook Pass",
+      "D) White Pass"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which Native American tribe has a reservation in the state of Washington?",
+    "answer_options": [
+      "A) Cherokee Nation",
+      "B) Navajo Nation",
+      "C) Yakama Nation",
+      "D) Sioux Nation"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the famous outdoor amphitheater located in the scenic Columbia River Gorge of Washington?",
+    "answer_options": [
+      "A) Hollywood Bowl",
+      "B) The Gorge Amphitheatre",
+      "C) Red Rocks Amphitheatre",
+      "D) Greek Theatre"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which Washington city is known for its tulip festival held annually in April?",
+    "answer_options": [
+      "A) Bellingham",
+      "B) Everett",
+      "C) Spokane",
+      "D) Mount Vernon"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the name of the famous market in Seattle known for its fresh seafood and diverse vendors?",
+    "answer_options": [
+      "A) Pike Place Market",
+      "B) Union Station Market",
+      "C) Capitol Hill Market",
+      "D) Belltown Market"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which Native American totem pole carvings are prominent in the state of Washington?",
+    "answer_options": [
+      "A) Hopi",
+      "B) Inuit",
+      "C) Haida",
+      "D) Navajo"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "In what year did the Space Needle in Seattle host the World's Fair?",
+    "answer_options": [
+      "A) 1952",
+      "B) 1962",
+      "C) 1972",
+      "D) 1982"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which volcanic peak erupted famously in 1980, impacting the landscape of Washington?",
+    "answer_options": [
+      "A) Mount Adams",
+      "B) Mount Hood",
+      "C) Mount Rainier",
+      "D) Mount St. Helens"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the name of the mountain range that runs through the eastern part of Washington?",
+    "answer_options": [
+      "A) Rocky Mountains",
+      "B) Sierra Nevada",
+      "C) Cascade Range",
+      "D) Blue Mountains"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which U.S. Navy aircraft carrier, named after a state, was commissioned in 2017 and is the second ship to bear the name?",
+    "answer_options": [
+      "A) USS California",
+      "B) USS Texas",
+      "C) USS Washington",
+      "D) USS Oregon"
+    ],
+    "correct_answer": "C"
+  }
+  ]
+}

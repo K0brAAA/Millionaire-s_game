@@ -1,0 +1,9 @@
+{
+   "users_dane": [
+      {
+         "username": "admin",
+         "password": "admin123",
+         "email": "admin@gmail.com"
+      }
+   ]
+}
